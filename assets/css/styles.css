@@ -319,10 +319,6 @@ img{
     margin-bottom: var(--mb-2);
 }
 
-.home__scroll{
-    /*display: none;*/
-}
-
 .home__scroll-button{
     color: var(--first-color);
     transition: .3s;
@@ -498,47 +494,49 @@ img{
     background-color: var(--first-color);
 }
 
-.skills__html{
-    width: 90%;
-}
-.skills__css{
-    width: 80%;
-}
-.skills__js{
-    width: 75%;
-}
-.skills__react{
-    width: 85%;
-}
-.skills__java{
-    width: 85%;
-}
-.skills__node{
-    width: 70%;
-}
-.skills__sql{
-    width: 90%;
-}
-.skills__python{
-    width: 60%;
-}
-.skills__photoshop{
+.skills__unity {
     width: 95%;
 }
-.skills__illustrator{
+
+.skills__cocos {
     width: 90%;
 }
-.skills__indesign{
+
+.skills__unreal {
     width: 80%;
 }
-.skills__windows{
+.skills__luna {
     width: 90%;
 }
-.skills__mac{
+.skills__cocoscreator {
     width: 80%;
 }
-.skills__linux{
+.skills__html {
+    width: 90%;
+}
+
+.skills__css {
+    width: 80%;
+}
+
+.skills__js {
+    width: 75%;
+}
+
+.skills__react {
+    width: 85%;
+}
+.skills__csharp{
+    width: 90%;
+}
+.skills__java {
+    width: 70%;
+}
+.skills__nodejs{
     width: 60%;
+}
+.skills__dotnet {
+    width: 85%;
 }
 .skills__close .skills__list{
     height: 0;
